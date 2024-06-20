@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.counter {
+  display: inline-flex;
+}
+
+.value {
+  padding: 0px 2rem; /*short-hand: top, right, bottom, left*/
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+.increase {
+  font-size: 2rem;
+  font-weight: 500;
+}
+
+.decrease {
+  font-size: 2rem;
+  font-weight: 500;
+}
